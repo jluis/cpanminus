@@ -199,7 +199,7 @@ Arnfjord Bjarmason, Eric Wilhelm, Florian Ragwitz and xaicron.
 # COMMUNITY
 
 - [http://github.com/miyagawa/cpanminus](http://github.com/miyagawa/cpanminus) - source code repository, issue tracker
-- [irc://irc.perl.org/#toolchain](irc://irc.perl.org/#toolchain) - discussions about Perl toolchain. I'm there.
+- [irc://irc.perl.org/#cpanm](irc://irc.perl.org/#cpanm) - discussions about cpanm and its related tools
 
 # NO WARRANTY
 

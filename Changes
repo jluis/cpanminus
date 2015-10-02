@@ -1,7 +1,9 @@
 See http://github.com/miyagawa/cpanminus/ for the latest development.
 
 {{$NEXT}}
-1.7040  2015-10-02 09:43:30 CET
+
+1.7040 2015-10-02T08:33:50Z
+ 1.7040  2015-10-02 09:43:30 CET
    [Improvements]
       - recurse the submodules or update them on cloning and checkout
  
